@@ -4,6 +4,11 @@
 Developed a comprehensive web application to make **feature selection and model evaluation transparent and accessible**, allowing users to interactively analyze how specific features impact predictive performance.  
 The tool emphasizes that **better features often outperform complex models**, highlighting the importance of feature engineering alongside model development.
 
+## Dashboard Preview
+Below is a live look at the Streamlit web application dashboard built for this project:
+
+![Streamlit Dashboard](insights_ss/Screenshot%202026-04-30%20103640.png)
+
 ---
 
 ## Technical Core
