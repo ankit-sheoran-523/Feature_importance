@@ -7,7 +7,7 @@ The tool emphasizes that **better features often outperform complex models**, hi
 ## Dashboard Preview
 Below is a live look at the Streamlit web application dashboard built for this project:
 
-![Streamlit Dashboard](img1.png,img2.png)
+![Streamlit Dashboard](img1.png)(img2.png)
 
 ---
 
@@ -45,7 +45,7 @@ FeatureSelectionTool/
 ├── taskDetection.py           <-- Task type detection & target preprocessing
 ├── requirements.txt           <-- Project dependencies
 └── README.md                  <-- Documentation
-
+```
 ### How to Run the Live Dashboard
 
 1.  **Install requirements:** Ensure all necessary Python libraries (streamlit, joblib, sklearn, pandas, etc.) are installed.
