@@ -7,7 +7,7 @@ The tool emphasizes that **better features often outperform complex models**, hi
 ## Dashboard Preview
 Below is a live look at the Streamlit web application dashboard built for this project:
 
-![Streamlit Dashboard](insights_ss/Screenshot%202026-04-30%20103640.png)
+![Streamlit Dashboard](img1.png,img2.png)
 
 ---
 
